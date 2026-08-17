@@ -42,7 +42,7 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maykell
 </div>
 
 ---
-### Sinta-se à vontade para entrar em contato comigo nas redes abaixo:
+### Meu contato nas redes abaixo:
 
 <a href="https://www.instagram.com/mhelena_casstro/" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
