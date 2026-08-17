@@ -1,14 +1,5 @@
 # Bem-vindo(a) ao meu perfil!
 
-
-💻 Desenvolvedora Full Stack em formação  
-🎓 Estudante de Engenharia de Software
-🚀 Apaixonada por programação, tecnologia e desenvolvimento de software.
-
-Atualmente estou aprimorando meus conhecimentos em desenvolvimento web,
-programação, banco de dados e desenvolvimento de aplicações, sempre buscando
-transformar ideias em projetos reais.
-
 ---
 
 ## 🛠️ Languages and Tools:
